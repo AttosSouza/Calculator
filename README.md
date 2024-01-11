@@ -1,6 +1,6 @@
-# Project
+# Calculator Project
 
-It is a simple calculator made with:
+Hi, this is a simple calculator made with:
 
 HTML
 
